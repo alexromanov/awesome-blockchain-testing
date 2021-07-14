@@ -26,6 +26,13 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [Functional tests for Cardano node](https://github.com/input-output-hk/cardano-node-tests)
 * [How we test at Cardano](https://iohk.io/en/blog/posts/2017/08/30/how-we-test-cardano/)
 
+## [Hyperledger](https://www.hyperledger.org/)
+### Tools
+* [Caliper](https://github.com/hyperledger/caliper) - blockchain performance benchmark framework, which allows users to test different blockchain solutions with predefined use cases, and get a set of performance test results.
+* [fabric-test](https://github.com/hyperledger/fabric-test)
+* [indy-test-automation](https://github.com/hyperledger/indy-test-automation)
+
+
 ## [Ethereum](https://ethereum.org/en/)
 ### Tools
 * [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - code coverage for Solidity testing
@@ -33,6 +40,8 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [Whiteblock Genesis](https://github.com/whiteblock/genesis) - allows users to provision multiple fully-functioning nodes over which they have complete control within a private test network
 * [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment) - JS based framework for smart contract testing
 * [Waffle](https://github.com/EthWorks/Waffle) - the most advanced framework for testing smart contracts.
+* [Truffle](https://www.trufflesuite.com/docs/truffle/overview) - development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. 
+* [Hardhat](https://hardhat.org/) - development environment to compile, deploy, test, and debug your Ethereum software. 
 ### Posts
 * [TESTING SMART CONTRACTS](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
 * An In-Depth Guide to Testing Ethereum Smart Contracts. Parts: [One](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-2e41b2770297), [Two](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-d403574a8c42), [Three](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-3e07b8c38755), [Four](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-fd699e3087e6), [Five](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-31534a48e177), [Six](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-2236902bf826), [Seven](https://iamdefinitelyahuman.medium.com/an-in-depth-guide-to-testing-ethereum-smart-contracts-ff061e79bb86)
