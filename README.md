@@ -26,6 +26,8 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 
 ### Tools
 * [MixBytes Tank](https://github.com/mixbytes/tank) - console tool which can set up a blockchain cluster in minutes in a cloud and bench it using various transaction loads. Supported blockchains are Haya and Polkadot.
+* [Bitcoin-Simulator, capable of simulating any re-parametrization of Bitcoin](https://github.com/arthurgervais/Bitcoin-Simulator)
+* [MADT - a distributed application modelling system](https://github.com/dltcspbu/madt)
 
 ### Papers
 * [Blockchain Testing: Challenges, Techniques, and Research Directions](https://arxiv.org/pdf/2103.10074.pdf)
@@ -53,6 +55,7 @@ Smart Contracts: the AGSolT Approach and its Evaluation](https://arxiv.org/pdf/2
 * [Performance Analysis of the Raft Consensus
 Algorithm for Private Blockchains](https://arxiv.org/pdf/1808.01081.pdf)
 * [Performance Modeling and Analysis of a Hyperledger-based System Using GSPN](https://arxiv.org/pdf/2002.03109.pdf)
+* [A BLOCKCHAIN SIMULATOR FOR EVALUATING CONSENSUS ALGORITHMS IN DIVERSE NETWORKING ENVIRONMENTS](https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1050&context=vmasc_pubs)
 
 ## [Cardano](https://cardano.org/)
 * [Functional tests for Cardano node](https://github.com/input-output-hk/cardano-node-tests)
@@ -77,6 +80,7 @@ Algorithm for Private Blockchains](https://arxiv.org/pdf/1808.01081.pdf)
 * [Truffle](https://www.trufflesuite.com/docs/truffle/overview) - development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. 
 * [Hardhat](https://hardhat.org/) - development environment to compile, deploy, test, and debug your Ethereum software. 
 * [Embark](https://framework.embarklabs.io/docs/contracts_testing.html) -  fast, easy to use, and powerful developer environment to build and deploy decentralized applications, also known as “DApps”.
+* [Hive is a system for running integration tests against Ethereum clients.](https://github.com/ethereum/hive/blob/master/docs/overview.md)
 
 ### Posts
 * [TESTING SMART CONTRACTS](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
