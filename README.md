@@ -8,15 +8,27 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [Introduction to Blockchain Testing](https://testautomationu.applitools.com/blockchain-testing/)
 
 ### Videos
+* [How To Test Blockchain Applications?](https://www.youtube.com/watch?v=iw5nHuA1SUs) - by  Daniel Knott
+* [Fuzzing Ethereum Smart Contract using Echidna - Blockchain Security #1](https://www.youtube.com/watch?v=EA8_9x4D3Vk) - by Patrick Ventuzelo
+* [Testing smart contracts with QuickCheck by John Hughes](https://www.youtube.com/watch?v=V9_14jjJiuQ)
+* [Adding Testing and Automatic Verifications to a Decentralized Application](https://www.youtube.com/watch?v=AB-qBfKL7Q0) - by blondiebytes
 * [Webinar: Blockchain Testing – How to Create Trust and Test its Effectiveness?](https://youtu.be/1OKCcfd2awE)
 * [Blockchain Testing BrownBag session](https://youtu.be/llylmSbVsjw)
-* [TMPA School 2018 Kostroma: Тестирование Blockchain R3 Corda](https://youtu.be/IHv-NlPbdig)
 * [Rafaela Azevedo - Testing Blockchain Applications](https://youtu.be/FKoKaugeSBE)
 * [Testing Tools for Blockchains](https://youtu.be/1woVse_HhE8)
 * [Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts)](https://youtu.be/ahZ_V6qdBjQ)
 * [Smashing Ethereum Smart Contracts for Fun and Real Profit](https://github.com/b-mueller/smashing-smart-contracts?utm_source=pocket_mylist)
 
 ### Posts
+* [The complete guide to blockchain testing](https://blog.logrocket.com/complete-guide-blockchain-testing/)
+* [Blockchain Testing](https://blog.testproject.io/2022/02/15/blockchain-testing/)
+* [Solutions for Testing Blockchain: Private Blockchains, Permutations, and Shifting Left](https://www.infoq.com/articles/testing-blockchain-solutions/)
+* [Blockchain Testing by Qtek Systems](https://www.qteksystems.com/wp-content/uploads/2019/11/Block_Chain_Testing_Final.pdf)
+* [Functional Testing for Blockchain Applications](https://us.nttdata.com/en/-/media/assets/white-paper/404734-blockchain-testing-white-paper.pdf)
+* [Understanding Cybersecurity Through the Lens of Blockchain Applications](https://blog.qasource.com/understanding-cybersecurity-through-the-lens-of-blockchain-applications)
+* [25 Most Commonly Used Blockchain Terms Explained](https://blog.qasource.com/25-most-commonly-used-blockchain-terms-explained)
+* [How to Ensure QA for Smart Contracts in Decentralized Applications](https://blog.qasource.com/how-to-ensure-qa-for-smart-contracts-in-decentralized-applications)
+* [Blockchain in Mobile Applications](https://blog.qasource.com/blockchain-in-mobile-applications)
 * [How to Test Bitcoin Wallet Apps](https://dzone.com/articles/testing-tips-how-to-test-bitcoin-wallet-apps)
 * [5 Popular Tools for Testing Blockchain Applications](https://www.cigniti.com/blog/5-popular-tools-for-testing-blockchain-applications/)
 * [Testing Blockchain Applications](https://azevedorafaela.com/2020/12/29/testing-blockchain-applications/)
