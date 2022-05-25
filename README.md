@@ -4,6 +4,13 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 
 ## Blockchain testing
 
+### Blockchain for Test Engineers (series)
+* [x] [Blockchain for Test Engineers: Roadmap](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/)
+* [x] [Blockchain for Test Engineers: Hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)
+* [x] [Blockchain for Test Engineers: Encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/)
+* [x] [Blockchain for Test Engineers: Digital Signatures](https://alexromanov.github.io/2022/05/15/bchain-testing-3-signatures/)
+* [x] [Blockchain for Test Engineers: Distributed Systems](https://alexromanov.github.io/2022/05/22/bchain-test-4-distributed-systems/)
+
 ### Courses
 * [x] [Introduction to Blockchain Testing](https://testautomationu.applitools.com/blockchain-testing/)
 
