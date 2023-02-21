@@ -115,6 +115,6 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [ ] [Synpress-E2E Tests for Web3 with Metamask Support](https://github.com/Synthetixio/synpress)
 
 ### Posts
-* [ ] [E2E Tests for Web3 Applications - TestJS Summit 2022](https://azevedorafaela.com/2022/12/14/e2e-tests-for-web3-applications-testjs-summit-2022/))
+* [ ] [E2E Tests for Web3 Applications - TestJS Summit 2022](https://azevedorafaela.com/2022/12/14/e2e-tests-for-web3-applications-testjs-summit-2022/)
 
 
