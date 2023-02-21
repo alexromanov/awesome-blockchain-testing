@@ -47,6 +47,9 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [ ] [MixBytes Tank](https://github.com/mixbytes/tank) - console tool which can set up a blockchain cluster in minutes in a cloud and bench it using various transaction loads. Supported blockchains are Haya and Polkadot.
 * [ ] [Bitcoin-Simulator, capable of simulating any re-parametrization of Bitcoin](https://github.com/arthurgervais/Bitcoin-Simulator)
 * [ ] [MADT - a distributed application modelling system](https://github.com/dltcspbu/madt)
+* [ ] [Truffle](https://trufflesuite.com/)
+* [ ] [Synpress-E2E Tests for Web3 with Metamask Support](https://github.com/Synthetixio/synpress)
+
 
 ### Papers
 * [x] [Blockchain Testing: Challenges, Techniques, and Research Directions](https://arxiv.org/pdf/2103.10074.pdf)
@@ -104,3 +107,7 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [x] [How to Test Ethereum Smart Contracts](https://betterprogramming.pub/how-to-test-ethereum-smart-contracts-35abc8fa199d)
 * [x] [The many ways of testing Smart Contracts in Ethereum](https://www.innoq.com/en/blog/testing-ethereum/)
 * [x] [Ethereum Mainnet Testing with Python and Brownie](https://iamdefinitelyahuman.medium.com/ethereum-mainnet-testing-with-python-and-brownie-82a61dee0222)
+* [ ] [E2E Tests for Web3 Applications - TestJS Summit 2022](https://azevedorafaela.com/2022/12/14/e2e-tests-for-web3-applications-testjs-summit-2022/))
+* [ ] [Blockchain Tests Workshop at The National Software Testing Conference](https://azevedorafaela.com/2021/10/15/blockchain-tests-workshop-at-the-national-software-testing-conference/)
+* [ ] [Blockchain Tests with Truffle - Solidity](https://azevedorafaela.com/2021/03/19/blockchain-test-workshop-with-truffle/)
+* [ ] [Testing Blockchain Applications](https://azevedorafaela.com/2020/12/29/testing-blockchain-applications/)
