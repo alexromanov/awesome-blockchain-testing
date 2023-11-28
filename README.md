@@ -94,6 +94,7 @@ Curated list of blog posts, videos and resources on testing blockchains and bloc
 * [ ] [hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - an implementation of the Ethereum virtual machine (EVM) made specifically for symbolic execution, unit testing and debugging of smart contracts
 * [ ] [Whiteblock Genesis](https://github.com/whiteblock/genesis) - allows users to provision multiple fully-functioning nodes over which they have complete control within a private test network
 * [ ] [OpenZeppelin Test Environment](https://github.com/OpenZeppelin/openzeppelin-test-environment) - JS based framework for smart contract testing
+* [ ] [OpenZeppelin Test Helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing
 * [ ] [Waffle](https://github.com/EthWorks/Waffle) - the most advanced framework for testing smart contracts.
 * [ ] [Truffle](https://www.trufflesuite.com/docs/truffle/overview) - development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. 
 * [ ] [Hardhat](https://hardhat.org/) - development environment to compile, deploy, test, and debug your Ethereum software. 
