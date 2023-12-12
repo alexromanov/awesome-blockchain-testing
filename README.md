@@ -1,29 +1,41 @@
 # Awesome Blockchain Testing
 Curated list of blog posts, videos and resources on testing blockchains and Web3 (blockchain-based) applications
 
+## Contents
+- [Books](#books)
+- [Courses](#courses)
+- [Videos](#videos)
+- [Posts](#posts)
+- [Tools](#tools)
+- [Whitepapers](#whitepapers)
+- [Bitcoin](#bitcoin)
+- [Cardano](#cardano)
+- [Hyperledger](#hyperledger)
+- [Ethereum](#ethereum)
+- [Web3](#web3-testing)
 
 ## Blockchain Testing
 
 ### Books
-* [Blockchain and decentralized systems](https://books.distributedlab.com/)
-* [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191)
-* [Cardano For the M₳sses: A Financial Operating System for people who don’t have one](https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T)
-* [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
+* [Blockchain and decentralized systems](https://books.distributedlab.com/) - 3 - volume book that covers everything you need to know about blockchain and how it works. Recommended for CS students
+* [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191) - one book to get every pice of knowledge on how modern blockchain work
+* [Cardano For the M₳sses: A Financial Operating System for people who don’t have one](https://www.amazon.com/Cardano-M%E2%82%B3sses-Financial-Operating-System/dp/B0B5KQVJ3T) - first book on what is Cardano blockchain and how it works
+* [Mastering Ethereum: Building Smart Contracts and DApps](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940) - good overview on basics of Ethereum blockchain. Miss the latests upgrades of PoS consensus
 
 ### Courses
-* [Introduction to Blockchain Testing](https://testautomationu.applitools.com/blockchain-testing/)
-* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ?si=Uini5LuPalQmaSbd)
-* [Decentralized Finance (DeFi): The Future of Finance Specialization](https://www.coursera.org/specializations/decentralized-finance-duke)
+* [Introduction to Blockchain Testing](https://testautomationu.applitools.com/blockchain-testing/) - free introductory course to get a glance on what blockchain testing is
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ?si=Uini5LuPalQmaSbd) - free 32-hour course on smart contract development with Javascript / Solidity
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
+* [Decentralized Finance (DeFi): The Future of Finance Specialization](https://www.coursera.org/specializations/decentralized-finance-duke)
 
 ### Videos
-* [What does it mean to test a blockchain?](https://youtu.be/LLF45RHA3AM?si=iHrLQUxdoLp0Sc7c) - a intro talk on what is blockchain, what can you test in blockchain world and tips on how to get started
+* [What does it mean to test a blockchain?](https://youtu.be/LLF45RHA3AM?si=iHrLQUxdoLp0Sc7c) - by Oleksandr Romanov
+* [Testing Blockchain Applications](https://youtu.be/FKoKaugeSBE) - by Rafaela Azevedo
 * [How To Test Blockchain Applications?](https://www.youtube.com/watch?v=iw5nHuA1SUs) - by  Daniel Knott
-* [Testing smart contracts with QuickCheck by John Hughes](https://www.youtube.com/watch?v=V9_14jjJiuQ)
+* [Testing smart contracts with QuickCheck](https://www.youtube.com/watch?v=V9_14jjJiuQ) - by John Hughes
 * [Adding Testing and Automatic Verifications to a Decentralized Application](https://www.youtube.com/watch?v=AB-qBfKL7Q0) - by blondiebytes
 * [Webinar: Blockchain Testing – How to Create Trust and Test its Effectiveness?](https://youtu.be/1OKCcfd2awE)
 * [Blockchain Testing BrownBag session](https://youtu.be/llylmSbVsjw)
-* [Rafaela Azevedo - Testing Blockchain Applications](https://youtu.be/FKoKaugeSBE)
 * [Testing Tools for Blockchains](https://youtu.be/1woVse_HhE8)
 
 ### Posts
@@ -131,13 +143,13 @@ Curated list of blog posts, videos and resources on testing blockchains and Web3
 * [Hardhat](https://hardhat.org/) - development environment to compile, deploy, test, and debug your Ethereum software. 
 * [Embark](https://framework.embarklabs.io/docs/contracts_testing.html) -  fast, easy to use, and powerful developer environment to build and deploy decentralized applications, also known as “DApps”.
 * [Hive is a system for running integration tests against Ethereum clients.](https://github.com/ethereum/hive/blob/master/docs/overview.md)
-* [mythril](https://github.com/ConsenSys/mythril)
-* [slither](https://github.com/crytic/slither)
-* [echidna](https://github.com/crytic/echidna/)
-* [manticore](https://github.com/trailofbits/manticore)
-* [eth-tester](https://github.com/ethereum/eth-tester)
-* [Populus](https://populus.readthedocs.io/en/latest/testing.html)
-* [brownie](https://github.com/eth-brownie/brownie)
+* [mythril](https://github.com/ConsenSys/mythril) - security analysis tool for EVM bytecode (Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains)
+* [slither](https://github.com/crytic/slither) - Solidity & Vyper static analysis framework written in Python3
+* [echidna](https://github.com/crytic/echidna/) - Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts
+* [manticore](https://github.com/trailofbits/manticore) - symbolic execution tool for the analysis of smart contracts and binaries
+* [eth-tester](https://github.com/ethereum/eth-tester) - tools for testing Ethereum applications
+* [Populus](https://populus.readthedocs.io/en/latest/testing.html) - framework provides for testing your Solidity smart contracts
+* [brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine
 
 ### Smart Contract Testing
 
