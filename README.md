@@ -57,14 +57,14 @@ Curated list of blog posts, videos and resources on testing blockchains and Web3
 * [Blockchain Tests Workshop at The National Software Testing Conference](https://azevedorafaela.com/2021/10/15/blockchain-tests-workshop-at-the-national-software-testing-conference/)
 
 #### Blockchain for Test Engineers (series)
-* [Blockchain for Test Engineers: Roadmap](https://alexromanov.github.io/2022/04/24/blockchain-testing-mindmap/)
-* [Blockchain for Test Engineers: Hashing](https://alexromanov.github.io/2022/05/01/bchain-testing-1-hashing/)
-* [Blockchain for Test Engineers: Encryption](https://alexromanov.github.io/2022/05/08/bchain-testing-2-encryption/)
-* [Blockchain for Test Engineers: Digital Signatures](https://alexromanov.github.io/2022/05/15/bchain-testing-3-signatures/)
-* [Blockchain for Test Engineers: Distributed Systems](https://alexromanov.github.io/2022/05/22/bchain-test-4-distributed-systems/)
-* [Blockchain for Test Engineers: P2P networks and Gossip protocol](https://alexromanov.github.io/2022/05/29/bchain-test-5-p2p-gossip-protocols/)
-* [Blockchain for Test Engineers: What is blockchain?](https://alexromanov.github.io/2022/06/05/bchain-test-what-is-blockchain/)
-* [Blockchain for Test Engineers: Merkle Trees](https://alexromanov.github.io/2022/06/19/bchain-test-7-merkle-tree/)
+* [Blockchain for Test Engineers: Roadmap](https://testengineeringnotes.com/posts/2022-04-24-blockchain-testing-mindmap/)
+* [Blockchain for Test Engineers: Hashing](https://testengineeringnotes.com/posts/2022-05-01-bchain-testing-1-hashing/)
+* [Blockchain for Test Engineers: Encryption](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-2-encryption/)
+* [Blockchain for Test Engineers: Digital Signatures](https://testengineeringnotes.com/posts/2022-05-08-bchain-testing-3-signatures/)
+* [Blockchain for Test Engineers: Distributed Systems](https://testengineeringnotes.com/posts/2022-05-22-bchain-test-4-distributed-systems/)
+* [Blockchain for Test Engineers: P2P networks and Gossip protocol](https://testengineeringnotes.com/posts/2022-05-29-bchain-test-5-p2p-gossip-protocols/)
+* [Blockchain for Test Engineers: What is blockchain?](https://testengineeringnotes.com/posts/2022-06-05-bchain-test-what-is-blockchain/)
+* [Blockchain for Test Engineers: Merkle Trees](https://testengineeringnotes.com/posts/2022-06-19-bchain-test-7-merkle-tree/)
 
 ### Tools
 * [MixBytes Tank](https://github.com/mixbytes/tank) - console tool which can set up a blockchain cluster in minutes in a cloud and bench it using various transaction loads. Supported blockchains are Haya and Polkadot.
